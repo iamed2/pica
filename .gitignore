@@ -1,0 +1,5 @@
+.coverage
+.tox
+pica.egg-info
+build/
+dist/
