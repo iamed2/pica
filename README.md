@@ -1,7 +1,7 @@
 Pica
 ====
 
-A curses-based probabilistic cellula automata.
+A curses-based probabilistic cellular automata.
 
 Installation
 ------------

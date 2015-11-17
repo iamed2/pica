@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
     name='pica',
-    description='A curses-based probabilistic cellula automata.',
+    description='A curses-based probabilistic cellular automata.',
     long_description=open('README.md').read(),
     version='0.1.0',
     author='Brendan Curran-Johnson',
