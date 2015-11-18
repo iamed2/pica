@@ -6,7 +6,7 @@ A curses-based probabilistic cellular automata.
 Installation
 ------------
 
-Painterm requires Python 3.5. If you already have that, installation is as:
+Pica requires Python 3.5. If you already have that, installation is as:
 ```sh
 pip3 install pica
 ```
